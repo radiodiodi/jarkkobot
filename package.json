@@ -1,7 +1,6 @@
 {
   "name": "jarkkobot",
   "version": "1.0.0",
-  "slackToken": "asd123",
   "description": "",
   "main": "src/app.js",
   "scripts": {
