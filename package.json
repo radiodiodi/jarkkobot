@@ -12,7 +12,7 @@
   "dependencies": {
     "botkit": "^0.5.6",
     "nodemon": "^1.11.0",
-    "jarkkobot-plugin-drunchroll": "file:../jarkkobot-plugin-drunchroll"
+    "jarkkobot-plugin-drunchroll": "git+https://github.com/radiodiodi/jarkkobot-plugin-drunchroll"
   },
   "devDependencies": {
     "eslint": "^4.3.0",
